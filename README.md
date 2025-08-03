@@ -1,5 +1,5 @@
 # Frontend-
-All about frontend technologies.  
+All about frontend technologies.    
 
 Tutorials, code snippets, and mini-projects covering HTML, CSS, JavaScript, and React.
 ## Technologies Covered
